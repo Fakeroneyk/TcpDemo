@@ -1,0 +1,17 @@
+syntax = "proto2";
+
+
+
+//REQ_TEST
+message ReqTest {
+  required int32 a = 1;
+}
+
+//RSP_TEST
+message RspTest {
+  required int32 b = 1;
+}
+
+message ReqTest2 {
+  required int32 aa = 1;
+}

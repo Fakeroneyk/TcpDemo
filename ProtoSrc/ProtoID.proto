@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+enum DEMOID
+{
+    REQ_TEST               =   1000000;
+    RSP_TEST               =   1000001;
+    REQ_TEST2              =   1000002;
+    RSP_TEST2              =   1000003;
+}

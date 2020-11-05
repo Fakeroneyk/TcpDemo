@@ -1,0 +1,9 @@
+*.o
+Bin/*
+Libs/
+Proto/*
+!Proto/Makefile
+.objs/
+cmake-build-debug
+.idea/
+CMakeLists.txt
